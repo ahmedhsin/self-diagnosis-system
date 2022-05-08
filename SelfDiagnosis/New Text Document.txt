@@ -1,0 +1,43 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <msclr\marshal_cppstd.h>
+using namespace msclr::interop;
+typedef std::string string;
+typedef std::fstream fstream;
+int numofdoctors = 0;
+int numofpatients = 0;
+int numofdiseases = 0;
+int numofaccounts = 0;
+struct accounts {
+	string username;
+	string password;
+	bool isdoctor;
+};
+struct doctors {
+	string name;
+	accounts account;
+	//account.isdoctor = 1;
+	int numofdiseases;
+	string diseases_added[100];
+};
+struct patients {
+	string name;
+	accounts account;
+	int age;
+	string gender;
+	//account.isdoctor = 0;
+	int numofdiseases;
+	string diseases_history[100];
+};
+struct diseases {
+	string title;
+	string id;
+	string general_info;
+	int numofsymp;
+	string symp[100];
+};
+accounts account[1000];
+doctors doctor[500];
+patients patient[500];
+diseases disease[1000];

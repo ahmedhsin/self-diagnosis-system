@@ -1,0 +1,4 @@
+flu$02$Influenza, commonly known as "the flu", is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever etc $3incubation period$chills$headaches$
+cold$01$The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the respiratory mucosa of the nose etc .$5headaches$muscle aches$coughs$sneezing$a raised temperature$
+corona$03$its a killing disease its disapper after a few days$2tasteless$high temprature$
+endfile$

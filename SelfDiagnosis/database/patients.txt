@@ -1,0 +1,7 @@
+ahmed mubarak$ahmedelia 123456789a 18 male 1 02
+hala esmail$hala 123456a 17 female 1 02
+manar elsayed$mann 123a 18 female 1 01
+mohamed ahmed$mhmad 123a 17 male 1 01
+sarah ased$sara 1123a 17 female 1 02
+sarah sayed$sara 1123a 15 female 1 01
+endfile$

@@ -1,0 +1,6 @@
+﻿  MyLogin.cpp
+C:\Users\RE-PC\Pictures\SelfDiagnosis\SelfDiagnosis\MyLogin.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\RE-PC\Pictures\SelfDiagnosis\SelfDiagnosis\MyLogin.cpp(18,35): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\RE-PC\Pictures\SelfDiagnosis\SelfDiagnosis\MyFunctions.h(249): warning C4715: 'get_idx': not all control paths return a value
+  MyLogin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SelfDiagnosis.vcxproj -> C:\Users\RE-PC\Pictures\SelfDiagnosis\x64\Debug\SelfDiagnosis.exe
