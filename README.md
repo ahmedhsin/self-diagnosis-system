@@ -2,7 +2,7 @@
 first year project in cis-asu
 gui system
 project team
--ahmed mubarak -teamleader
+-ahmed mubarak_teamleader
 -mohamed ahmed
 -manar elsayed
 -dalia abdelazim
